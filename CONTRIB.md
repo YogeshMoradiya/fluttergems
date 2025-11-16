@@ -21,3 +21,5 @@ Please add your package at the end of the table:
 | flutter_scale_kit | https://pub.dev/packages/flutter_scale_kit | https://fluttergems.dev/responsive-ui/ |
 | flutter_v2ray_client | https://pub.dev/packages/flutter_v2ray_client | https://fluttergems.dev/wifi-iot/ |
 | media_compressor | https://pub.dev/packages/media_compressor | https://fluttergems.dev/edit-save-compress-multimedia/ |
+| raindrop_animated_splash_screen | https://pub.dev/packages/raindrop_animated_splash_screen | https://github.com/YogeshMoradiya/raindrop_animated_splash_screen |
+
